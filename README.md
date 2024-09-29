@@ -31,6 +31,10 @@ Hey there 👋, I'm Aviral Shastri from India.
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="60" alt="firebase logo" />
   <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="50" alt="arduino logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++ logo" />
+  <img width="20" />
   <p><br><br></p>
 </div>
 
