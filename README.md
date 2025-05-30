@@ -15,7 +15,13 @@ Hey there 👋, I'm Aviral Shastri from India.
 ###
 
 <div align="left" >
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ros/ros-original.svg" height="50" alt="js logo" />
+  <img width="20" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gazebo/gazebo-original.svg" height="50" alt="js logo" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html logo" />
+  <img width="20" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fastapi/fastapi-original.svg" height="50" alt="js logo" />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS logo" />
   <img width="20" />
